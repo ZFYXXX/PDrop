@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+experiments/
+outputs/
+logs/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.parquet
